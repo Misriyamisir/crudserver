@@ -1,0 +1,40 @@
+{
+  "details": [
+    {
+      "name": "dhanya",
+      "email": "dhanya@gmail.com",
+      "num": "9846500528",
+      "age": "26",
+      "gender": "Female",
+      "category": "10K run (10 km)",
+      "id": 6
+    },
+    {
+      "name": "manu",
+      "email": "manu@gmail.com",
+      "num": "8156931888",
+      "age": "25",
+      "gender": "Male",
+      "category": "half marathon (21.097 km)",
+      "id": 7
+    },
+    {
+      "name": "lijo",
+      "email": "lijomartin@gmail.com",
+      "num": "9846500529",
+      "age": "29",
+      "gender": "Male",
+      "category": "10K run (10 km)",
+      "id": 8
+    },
+    {
+      "name": "jenny",
+      "email": "jennykim@gmail.com",
+      "num": "9207540528",
+      "age": "27",
+      "gender": "Female",
+      "category": "half marathon (21.097 km)",
+      "id": 9
+    }
+  ]
+}
